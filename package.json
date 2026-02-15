@@ -18,7 +18,7 @@
     "graph"
   ],
   "dependencies": {
-      "com.unity.shadergraph": "12.1.16"
+      "com.unity.shadergraph": "12.1.15"
   },
   "samples": [
     {
